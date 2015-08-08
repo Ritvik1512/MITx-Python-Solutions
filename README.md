@@ -1,4 +1,3 @@
 ### MITx-Python-Solutions
 My Solutions through the MITx Intro CS course. (why? because fun)
-Will be putting together with a week by week basis.
-I'll be doing this all together so, it would be over in a next few days.
+These shall be posted categorically based on the lectures divided over the weeks, but since I shall be doing all at once, the entire process should be through in a couple of days.
